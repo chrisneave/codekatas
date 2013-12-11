@@ -1,0 +1,20 @@
+{
+  "name": "javascript",
+  "version": "0.0.0",
+  "description": "",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "expect.js": "~0.2.0"
+  },
+  "devDependencies": {
+    "expect.js": "~0.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Neave",
+  "license": "MIT"
+}
